@@ -24,7 +24,7 @@ Weathering App is a modern and interactive weather application that not only pro
 
 ## Screenshots
 
-![Weathering App Screenshot](src/Assets/weatherPhoto.png "Weathering App - Dynamic Weather Animations")
+![Weathering App Screenshot](https://res.cloudinary.com/doan4g4r9/image/upload/v1756563547/Screen_Shot_2025-08-30_at_22.12.38_e1igtl.png "Weathering App - Dynamic Weather Animations")
 
 ## Installation
 
