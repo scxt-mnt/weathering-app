@@ -13,18 +13,18 @@ Weathering App is a modern and interactive weather application that not only pro
 ## Technologies Used
 
 - HTML, CSS, JavaScript  
-- Weather API (e.g., OpenWeatherMap)  
-- Animation libraries (optional, e.g., GSAP, Lottie)  
+- Weather API (e.g., OpenWeatherMap) 
+- react
+- tailwind
 
 ## How It Works
 
-1. User opens the app and allows location access (optional).  
-2. Weather data is fetched from the API for the current location or searched city.  
-3. Background animations dynamically change based on the retrieved weather condition.  
+1. Weather data is fetched from the API for the current location or searched city.  
+2. Background animations dynamically change based on the retrieved weather condition.  
 
 ## Screenshots
 
-*(Add screenshots or GIFs showing animations for different weather conditions here)*  
+![Weathering App Screenshot](src/Assets/weatherPhoto.png "Weathering App - Dynamic Weather Animations")
 
 ## Installation
 
